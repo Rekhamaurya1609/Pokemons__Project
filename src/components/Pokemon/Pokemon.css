@@ -11,8 +11,10 @@
 
 .pokemon-name {
     font-size: larger;
-    letter-spacing: 0.5rem;
+    letter-spacing: 0.3rem;      
 }
+
+
 .pokemon-image {
     margin-top: 1rem;
     height: 150px;
@@ -20,5 +22,5 @@
 }
 
 .pokemon:hover {
-    background-color: beige;
+    background-color: rgb(158, 184, 210);
 }

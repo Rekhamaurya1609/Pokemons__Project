@@ -5,4 +5,12 @@
     margin-top: 2rem;
     width: 600px;
     padding: 1.5rem;
+    border-width: 3px;
+    border-color: rgb(71, 69, 69);
+    border-radius: 15px;
+    box-shadow: 4px 4px 4px 3px rgb(180, 176, 176);
+}
+
+#pokemon-name-search:hover {
+    background-color: rgb(218, 224, 227);
 }

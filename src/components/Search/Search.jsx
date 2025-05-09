@@ -8,7 +8,7 @@ function Search({updateSearchTerm}) {
             <input 
                 id="pokemon-name-search"
                 type="text"
-                placeholder="pokemon name...."
+                placeholder="pokemon name or number...."
                 onChange={debouncedCallback}
             />
 

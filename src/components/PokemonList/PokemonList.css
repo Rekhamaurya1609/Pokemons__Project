@@ -20,4 +20,12 @@
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     margin-left: 1rem;
+    border-radius: 8px;
+    background-color: #0585e8;  
+    box-shadow: 4px 4px 4px 2px rgb(180, 176, 176);  
+}
+
+.controls button:hover {
+    background-color:#0d5287;
+
 }
